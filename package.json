@@ -1,0 +1,20 @@
+{
+  "name": "lighthouse-multirunner",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.4.1",
+    "chrome-launcher": "^1.1.2",
+    "fs-extra": "^11.3.0",
+    "lighthouse": "^12.5.0",
+    "yargs": "^17.7.2"
+  }
+}
