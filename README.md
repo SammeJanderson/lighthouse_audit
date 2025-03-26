@@ -21,7 +21,7 @@ Make sure you have Node.js v18+ and Chrome installed.
 # Usage
 ##  Basic Command
 
-`node runAudits.js --url https://example.com --iterations 3`
+`node lh-udits.js --url https://example.com --iterations 3`
 
 - Audits https://example.com 3 times.
 
