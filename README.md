@@ -1,9 +1,9 @@
-This is a small Node.js script that runs multiple Lighthouse audits on a single URL and shows you the average performance results. If you want, it can even export a CSV file with all the numbers.
+This is a small Node.js script that runs multiple Lighthouse audits on a single URL and shows you the average performance results. If you want, it can export a CSV file with all the numbers.
 
 # How It Works
 Runs Lighthouse a bunch of times in a row (or all at once in parallel—though that can get noisy).
 
-Saves each run's JSON report (by default).
+Saves each run's JSON report 
 
 Logs the results (performance scores, LCP, TBT, CLS) for each run, plus the average for all runs.
 
